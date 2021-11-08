@@ -9,7 +9,7 @@ This is a project that shows how the object pool patterns works. This is based o
  - overall look and design of the layout of this scene
 
 
-Questions: 
+Questions: These are for the presentation that was included with the project
 
 Q1: What are some game ideas that can use Object Pools?
 
