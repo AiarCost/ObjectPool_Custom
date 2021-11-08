@@ -12,5 +12,7 @@ This is a project that shows how the object pool patterns works. This is based o
 Questions: 
 
 Q1: What are some game ideas that can use Object Pools?
+
 Q2: Could there be a way to allow the user to choose how many objects of each type they have in their pool?
+
 Q3: Would be adding to the object pool during runtime diminish the benefits of the object pool?
